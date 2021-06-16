@@ -3,4 +3,8 @@
 	<section name="OptionalMessageDialog.hide.">
 		<item key="askReindex.detail" value="1"/>
 	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
 </section>
